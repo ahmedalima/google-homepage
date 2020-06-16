@@ -67,8 +67,29 @@ li.nav_links a:hover {
     padding: 10px 20px;
 }
 
+
 .form #search_box {
     padding: 0px 8px;
 }
+
+/*Seach Buttons*/
+.search_buttons {
+    margin: 3%;
+    text-align: center;
+}
+
+.search_buttons button {
+    font-size: 150%;
+    font-weight: bold;
+    padding: 7px;
+}
+.search_buttons button:hover {
+    cursor: pointer;
+    box-shadow: 2px 2px 7px #37aa40;
+}
+#search {
+    margin-right: 10px;
+}
+
 
 
