@@ -29,5 +29,19 @@ ul {
 #sign_in a {
     color: #ffffff;
 }
+.nav_links {
+    color: #404040;
+}
+li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li.nav_links a:hover {
+    text-decoration: underline;
+}
+#sign_in:hover {
+    box-shadow: 1px 1px 5px #999999 ;
+}
 
 
