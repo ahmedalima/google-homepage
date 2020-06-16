@@ -44,4 +44,15 @@ li.nav_links a:hover {
     box-shadow: 1px 1px 5px #999999 ;
 }
 
+/* Google Logo*/
+
+.google #google_logo {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 18%;
+    padding-bottom: 3%;
+}
+
 
