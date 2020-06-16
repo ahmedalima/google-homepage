@@ -55,4 +55,20 @@ li.nav_links a:hover {
     padding-bottom: 3%;
 }
 
+/* Seach Form*/
+.form {
+    text-align: center;
+}
+
+#search_box {
+    border-radius: 5px;
+    width: 450px;
+    line-height: 32px;
+    padding: 10px 20px;
+}
+
+.form #search_box {
+    padding: 0px 8px;
+}
+
 
